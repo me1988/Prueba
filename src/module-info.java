@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author seresco
+ *
+ */
+module main {
+}
