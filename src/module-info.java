@@ -7,5 +7,5 @@
  */
 module main {
 	
-	///hola  y nuevo dato y otro
+	///hola  y nuevo dato y otro y otro
 }
